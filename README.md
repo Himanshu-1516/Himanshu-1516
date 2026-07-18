@@ -1,58 +1,66 @@
 <div align="center">
-  <h1>Hi there, I'm Himanshu 👋</h1>
+  <img src="https://github.com/Himanshu-1516/Himanshu-1516/assets/222170592/0c5b8e8e-0f8e-4b5d-9c3f-8e2d5f1a7b9c" width="120" height="120" style="border-radius: 50%; border: 4px solid #00ff9d;">
   
+  <h1>Hey, I'm Himanshu 👋</h1>
+  <h3><strong>AI Engineer & Machine Learning Enthusiast</strong></h3>
+
   <p>
-    <strong>AI/ML Engineer & Data Science Enthusiast</strong><br>
-    Building intelligent systems with Python, LangChain, and modern AI tools
+    Crafting intelligent systems with <strong>Python</strong> • <strong>LangChain</strong> • <strong>LLMs</strong>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Himanshu-1516&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Himanshu-1516&label=Profile%20Views&color=00ff9d&style=for-the-badge" />
+</div>
+
+---
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75D3?style=for-the-badge&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+### 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔍 Advance RAG</h3>
+      <p><strong>Advanced Retrieval-Augmented Generation System</strong></p>
+      <a href="https://github.com/Himanshu-1516/advance-Rag">
+        <img src="https://img.shields.io/badge/View%20Project-00ff9d?style=for-the-badge&logo=github&logoColor=black" alt="Advance RAG">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛒 Omnicart AI</h3>
+      <p><strong>Multi-platform AI Shopping Assistant</strong><br>LangChain + Gemini + MCP Servers</p>
+      <a href="https://github.com/Himanshu-1516/Omnicart-AI">
+        <img src="https://img.shields.io/badge/View%20Project-00ff9d?style=for-the-badge&logo=github&logoColor=black" alt="Omnicart AI">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h3>📍 Gurugram, India</h3>
   
-  <a href="https://github.com/Himanshu-1516">
-    <img src="https://img.shields.io/github/followers/Himanshu-1516?label=Followers&style=social" alt="Followers">
+  <a href="https://www.linkedin.com/in/himanshu-thareja1516">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:himanshu150106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
----
-
-### 🚀 About Me
-
-- 🌱 Currently diving deep into **Artificial Intelligence, Machine Learning, and Data Science**
-- 💻 Strong foundation in **Python** and **Mathematics**
-- 📍 Based in **Gurugram, India**
-- 🔭 Passionate about building practical AI solutions (RAG, LLMs, Multi-Agent Systems)
-
-### 🛠️ Technologies & Tools
-
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-121212?logo=langchain&logoColor=white&style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-1516&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-1516&layout=compact&theme=radical&hide_border=true" height="190" />
 </div>
 
-### 📊 My GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-1516&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-1516&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-### 🔥 Featured Projects
-
-- **[Omnicart-AI](https://github.com/Himanshu-1516/Omnicart-AI)** — Multi-platform shopping assistant using LangChain + Gemini + MCP
-- **[advance-Rag](https://github.com/Himanshu-1516/advance-Rag)** — Advanced RAG implementation
-- **[LLM-MODEL-](https://github.com/Himanshu-1516/LLM-MODEL-)** — LLM experimentation workspace
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/himanshu-thareja1516)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:himanshu150106@gmail.com)
-
----
-
-<div align="center">
-  <i>"Turning data into intelligence, one model at a time"</i>
+  <i>"Building the future, one intelligent system at a time ✨"</i>
 </div>
