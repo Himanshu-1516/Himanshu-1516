@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Himanshu-1516/Himanshu-1516/assets/222170592/0c5b8e8e-0f8e-4b5d-9c3f-8e2d5f1a7b9c" width="120" height="120" style="border-radius: 50%; border: 4px solid #00FF9D;" alt="Himanshu"/>
+<img src="https://avatars.githubusercontent.com/u/222170592?s=200" width="120" height="120" style="border-radius: 50%; border: 4px solid #00FF9D;" alt="Himanshu"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Himanshu%20Thareja&fontColor=00FF9D&fontSize=38&animation=fadeIn&fontAlignY=40&desc=GenAI%20Engineer%20building%20LLM%20and%20RAG%20systems&descAlignY=62&descSize=15" width="100%"/>
 
@@ -124,10 +124,10 @@ I'm a **GenAI Engineer** based in Gurugram, India, focused on building real, pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Himanshu-1516&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9&bg_color=0D1117" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-1516&layout=compact&hide_border=true&theme=transparent&title_color=00FF9D&text_color=C9D1D9&bg_color=0D1117" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Himanshu-1516&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-1516&layout=compact&hide_border=true&theme=radical" height="180" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=Himanshu-1516&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Himanshu-1516&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -175,5 +175,3 @@ I'm a **GenAI Engineer** based in Gurugram, India, focused on building real, pro
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
-
-
